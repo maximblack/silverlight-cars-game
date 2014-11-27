@@ -1,0 +1,8 @@
+﻿<Application
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="cars.App">
+	<Application.Resources>
+		<!-- Здесь должны определяться ресурсы, относящиеся к уровню приложения. -->
+	</Application.Resources>
+</Application>

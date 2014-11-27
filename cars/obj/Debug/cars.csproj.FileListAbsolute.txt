@@ -1,0 +1,415 @@
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\favicon.ico
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\cars.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\cars.pdb
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\AppManifest.xaml
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\cars.xap
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\TestPage.html
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\App.g.cs
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\MainPage.g.cs
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\cars.g.resources
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\cars.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\cars.pdb
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\XapCacheFile.xml
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\obj\Debug\cars.csprojResolveAssemblyReference.cache
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\System.Windows.Controls.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\System.Windows.Controls.Pivot.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\System.Xml.Linq.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\nya\Documents\Visual Studio 2013\Projects\cars\cars\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\favicon.ico
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\cars.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\cars.pdb
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\AppManifest.xaml
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\cars.xap
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\TestPage.html
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\Microsoft.Expression.Controls.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Windows.Controls.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Windows.Controls.Pivot.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Windows.Interactivity.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Xml.Linq.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Xml.Serialization.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Windows.Controls.xml
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Windows.Controls.Pivot.xml
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Xml.Linq.xml
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\System.Xml.Serialization.xml
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ru\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\cars.csprojResolveAssemblyReference.cache
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\App.g.cs
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\MainPage.g.cs
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\cars.g.resources
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\cars.dll
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\cars.pdb
+D:\Users\c.pereteatco\Downloads\Pereteatco_Cristina_1406B\Pereteatco_Cristina_1406B\cars\cars\obj\Debug\XapCacheFile.xml
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\favicon.ico
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\cars.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\cars.pdb
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\AppManifest.xaml
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\cars.xap
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\TestPage.html
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\System.Windows.Controls.Pivot.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\System.Xml.Linq.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ar\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\bg\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ca\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\cs\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\da\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\de\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\el\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\es\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\et\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\eu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\he\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\hr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\hu\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\id\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\it\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ja\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ko\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\lt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\lv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ms\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\nl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\no\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\pl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\pt\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\pt-BR\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ro\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ru\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sl\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\sv\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\th\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\tr\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\uk\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\vi\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hans\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hant\System.Windows.Controls.Pivot.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\cars.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\MainPage.g.cs
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\cars.g.resources
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\cars.dll
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\cars.pdb
+C:\Users\Maxim\Desktop\proiecte\cars-prj\cars\cars\obj\Debug\XapCacheFile.xml
